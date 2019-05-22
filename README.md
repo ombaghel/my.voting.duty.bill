@@ -1,10 +1,10 @@
 # My.Voting.Duty.Bill
 
 ## "Citizens Voting Duty Bill aka. My Voting Duty Bill"
-=====
-#* "chamber": ["Central", "State"]
+ 
+# * "chamber": ["Central", "State"]
 
-This version is a draft bill or resolution is drafted for Central and State committee. 
+## This version is a draft bill or resolution is drafted for Central and State committee. 
 
 # * Features:
   ## Getting to know citizens voting percentage demographic and staticals analysis to improve quality of voting in elections.
