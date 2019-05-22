@@ -2,7 +2,7 @@
 
 ## "Citizens Voting Duty Bill aka. My Voting Duty Bill"
 =====
-* "chamber": ["Central", "State"]
+#* "chamber": ["Central", "State"]
 
 This version is a draft bill or resolution is drafted for Central and State committee. 
 
