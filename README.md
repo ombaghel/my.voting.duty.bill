@@ -4,7 +4,7 @@
  
 ##  "Assemblies": ["Central", "State"]
 
-``` This version is a bill or resolution drafted for Central and State committee. ```
+``` This is a bill or resolution drafted for Central and State committee. ```
 
 ##  Features:
   * Getting to know citizens voting percentage demographic and staticals analysis to improve quality of voting in elections.
