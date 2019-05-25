@@ -1,4 +1,4 @@
-# My.Voting.Duty.Bill
+# My Voting Duty Bill
 
 ### "Citizens Voting Duty Bill aka. My Voting Duty Bill"
 <p align="left">
