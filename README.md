@@ -10,7 +10,7 @@
   <img src="ECICard.png" width="100" title="ECI Voter Card">
 </p>
 <p align="center">
-  <img src="TechArchMVDB.png" width="200" title="Technical Architecture Diagram">
+  <img src="TechArchMVDB.png" width="600" title="Technical Architecture Diagram">
 </p>
 ##  Features:
   * Getting to know citizens voting percentage demographic and staticals analysis to improve quality of voting in elections.
