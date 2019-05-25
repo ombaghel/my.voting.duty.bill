@@ -3,12 +3,13 @@
 ### "Citizens Voting Duty Bill aka. My Voting Duty Bill"
 
 ##  "Assemblies": ["Central", "State"]
-<p align="center">
-  <img src="ECICard.png" width="100" title="hover text">
-</p>
+
 ``` This is a bill or resolution drafted for Central and State committee. ```
 
-![alt text](TechArchMVDB.png)
+<p align="center">
+  <img src="ECICard.png" width="100" title="ECI Voter Card">
+  <img src="TechArchMVDB.png" width="200" title="Technical Architecture Diagram">
+</p>
 
 ##  Features:
   * Getting to know citizens voting percentage demographic and staticals analysis to improve quality of voting in elections.
