@@ -1,14 +1,14 @@
 # My.Voting.Duty.Bill
 
 ### "Citizens Voting Duty Bill aka. My Voting Duty Bill"
-
+<p align="left">
+  <img src="ECICard.png" width="100" title="ECI Voter Card">
+</p>
 ##  "Assemblies": ["Central", "State"]
 
 ``` This is a bill or resolution drafted for Central and State committee. ```
 
-<p align="left">
-  <img src="ECICard.png" width="100" title="ECI Voter Card">
-</p>
+
 <p align="left">
   <img src="TechArchMVDB.png" width="800" title="Technical Architecture Diagram">
 </p>
