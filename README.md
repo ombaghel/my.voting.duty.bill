@@ -5,6 +5,8 @@
   <img src="ECICard.png" width="100" title="ECI Voter Card">
 </p>
 #
+
+
 ##  "Assemblies": ["Central", "State"]
 
 ``` This is a bill or resolution drafted for Central and State committee. ```
