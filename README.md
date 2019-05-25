@@ -5,6 +5,7 @@
 ##  "Assemblies": ["Central", "State"]
 
 ``` This is a bill or resolution drafted for Central and State committee. ```
+![alt text](TechArchMVDB.png)
 
 ##  Features:
   * Getting to know citizens voting percentage demographic and staticals analysis to improve quality of voting in elections.
